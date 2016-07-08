@@ -1,4 +1,4 @@
-# LinkSimbolico
+# Link simbolico
 File batch che crea un link simbolico in una cartella di destinazione per ogni file con una specifica estensione presente in una cartella sorgente.
 
 Utilizzo:
